@@ -1,5 +1,5 @@
-<h3>Requiremnets:</h3>
-Qt 5.9.0
+<h3>Environment</h3>
+<p>Qt 5.9.0<br>MinGW 5.3.0 32bit for C++</p>
 
 <h3>SmallC language:</h3>
 
